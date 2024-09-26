@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['249995163249'] //ur owner number
+global.vcardowner = ['249116564593'] //ur owner number
 global.ownername = "Moodi ٫" //ur owner name
 global.ytname = "YT: Moodi " //ur yt chanel name
 global.socialm = "GitHub: moodi " //ur github or insta name
 global.location = "sudan, Cairo, khartoum " //ur location
 
 //bot bomdy 
-global.owner = ['249995163249']
-global.ownertag = '249995163249' //ur tag number
-global.botname = '𝑩𝑶𝑻 MOODI ٫' //ur bot name
+global.owner = ['249116564593']
+global.ownertag = '249116564593' //ur tag number
+global.botname = '𝑩𝑶𝑻 𝐇𝐄𝐌𝐀 ٫' //ur bot name
 global.linkz = "https://youtube.com/channel/UC24R19unGafZlRVj4wz5wyw" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UC24R19unGafZlRVj4wz5wyw" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/ER0zgGIWMim5IDI4KjasT4' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ مودي يحب ⍣" //ur sticker watermark packname
-global.author = "⍣249995163249⍣" //ur sticker watermark author
+global.packname = "⍣ هيما يحب ⍣" //ur sticker watermark packname
+global.author = "⍣249116564593⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['249995163249'] //ur premium numbers
+global.premium = ['249116564593'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,7 +105,7 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'تم يروحي ✓',
+    success: 'هيما بسلم عليك تم يروحي ✓',
     admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
